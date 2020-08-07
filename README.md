@@ -1,2 +1,2 @@
 # Practice
-This is an assignment
+I am editing the README file.
